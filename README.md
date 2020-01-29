@@ -16,17 +16,17 @@ Pour aller plus loin
 
 Idées intéressantes a developper :
 
-[]Un système solaire complet <br />
-[]La prise en compte de la poussée continue <br />
-[]Réfléchir sur l’orientation et déclenchement de cette poussée <br />
-[]Quaternion <br />
-[]Départs et arrivée <br />
-[]Affichage de plusieurs moniteurs <br />
-[]Big data avec de nombreuses trajectoires <br />
+  []Un système solaire complet <br />
+  []La prise en compte de la poussée continue <br />
+  []Réfléchir sur l’orientation et déclenchement de cette poussée <br />
+  []Quaternion <br />
+  []Départs et arrivée <br />
+  []Affichage de plusieurs moniteurs <br />
+  []Big data avec de nombreuses trajectoires <br />
 
 
 Idée réaliste faisable :
 
-[]Un système solaire complet <br />
-[]Départs et arrivée <br />
-[]Big data avec de nombreuses trajectoires <br />
+  []Un système solaire complet <br />
+  []Départs et arrivée <br />
+  []Big data avec de nombreuses trajectoires <br />
