@@ -7,7 +7,7 @@ Le modèle s'inscrit dans le cadre du projet scolaire sur la conception d'un "mo
 
 Organisation du code 
 -----------------------------------------------------------------------------------------------
-
+Description du fonctionnement du code
 
 
 
@@ -16,8 +16,8 @@ Pour aller plus loin
 
 Idées intéressantes a developper :
 
-[]Un système solaire complet
-[]La prise en compte de la poussée continue
+[]Un système solaire complet /n
+[]La prise en compte de la poussée continue /n
 []Réfléchir sur l’orientation et déclenchement de cette poussée
 []Quaternion
 []Départs et arrivée
