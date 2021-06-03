@@ -9,9 +9,9 @@ Organisation du code
 -----------------------------------------------------------------------------------------------
 Description du fonctionnement du code
 
-Modele_Trajectoire_Projet4A.m est le fichier principal, il lance les fichiers simulink contenant le système solaire avec les paramètres initiaux. A chaque simulation il recupère les paramètres finaux comme la meilleur distance d'arrivé. Et utilise l’algorithme génétique pour créer de nouveaux paramètres initiaux pour les prochaines simulations.
+Modele_Trajectoire_Projet4A.m est le fichier principal, il lance les fichiers simulink contenant le système solaire avec les paramètres initiaux. A chaque simulation il recupère les paramètres finaux comme la meilleure distance d'arrivée. Et utilise l’algorithme génétique pour créer de nouveaux paramètres initiaux pour les prochaines simulations.
 
-SIMU_systeme_solaire.slx et SIMU_trajectoire_vaisseau.slx sont les fichiers simulink utile aux simulation du trajet Terre-Mars et Mars-Terre
+SIMU_systeme_solaire.slx et SIMU_trajectoire_vaisseau.slx sont les fichiers simulink utile aux simulations du trajet Terre-Mars et Mars-Terre
 
 Visualisation_trajectoire.m est un fichier matlab qui permet de visualiser une trajectoire sauvgardé
 
